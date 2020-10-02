@@ -1,17 +1,17 @@
 #!/usr/bin/python
-' ' ' create by rishi' ' '
+'''create by rishi'''
 
 import smtplib
 from os import system
 
-def main( ):
-print   '=======+====+======'
-print   '   create by Rishi '
-print   '==============++==='
-print '                       ^
-print '     ||__|| ... || )) //\\ \\//
-print '     ||''|| ,...|| ))||  || ||
-print '     '''''''''''Hacking,,,bay:::::::::
+def main():
+   print '=======+====+================'
+   print '   create by Rishi           '
+   print '==============++============='
+   print '                       ^
+   print '     ||__|| ... || )) //\\ \\//
+   print '     ||''|| ,...|| ))||  || ||
+   print '     '''''''''''Hacking,,,bay:::::::::
 
 main()
 print '[y] start the attack'
