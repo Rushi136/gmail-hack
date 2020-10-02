@@ -6,12 +6,12 @@ from os import system
 
 def main( ):
 print   '=======+====+======'
-print   '       create by Rishi          '
+print   '   create by Rishi '
 print   '==============++==='
-print '                           ^
+print '                       ^
 print '     ||__|| ... || )) //\\ \\//
-print '     ||''''''''||  ...|| ))||   ||   ||
-print '                               '''''''''''Hacking,,, print            bay:::::::::
+print '     ||''|| ,...|| ))||  || ||
+print '     '''''''''''Hacking,,,bay:::::::::
 
 main()
 print '[y] start the attack'
