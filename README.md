@@ -5,7 +5,7 @@ YouTube hacking Bay channel  video release
 # rishisahu
 # apt update
 # apt upgrade
-# apt install got
+# apt install git
 # apt install python
 # git clone https://github.com/Rushi136/rishisahu.git
 # cd rishisahu
