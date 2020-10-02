@@ -33,13 +33,13 @@ def main():
    print '   (  /   `-._//^`           '
    print '    `Y-.____(__}             '
    print '     |     {__)              ' 
-   print '           ()   V.1.0        '
+   print '           ()   V.2.0        '
 
 main()
 print '[Y] start the attack'
 print '[N] exit'
 option = input('==>')
-if option == Y:
+if option == 1:
    file_path = raw_input('path of passwords file :')
 else:
    system('clear')
