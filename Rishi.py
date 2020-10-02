@@ -36,10 +36,10 @@ def main():
    print '           ()   V.1.0        '
 
 main()
-print '[1] start the attack'
-print '[2] exit'
+print '[Y] start the attack'
+print '[N] exit'
 option = input('==>')
-if option == 1:
+if option == Y:
    file_path = raw_input('path of passwords file :')
 else:
    system('clear')
