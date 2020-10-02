@@ -6,7 +6,7 @@ YouTube hacking Bay channel  video release
 # apt update
 # apt upgrade
 # apt install git
-# apt install python
+# apt install python2
 # git clone https://github.com/Rushi136/rishisahu.git
 # cd gmail hack
-# python Rishi.py
+# python2 Rishi.py
